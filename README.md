@@ -13,6 +13,9 @@ TODO
 
 - Implementations for Drag & Drop columns
 
+## Quick Overview
+![](datatable.gif)
+
 ## Project setup
 
 ```
