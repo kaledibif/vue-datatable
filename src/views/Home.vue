@@ -1,18 +1,27 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <Container>
+    <FlightTable :flights="flights"/>
+  </Container>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+import Container from '../components/Container.vue';
+import FlightTable from '../components/FlightTable.vue';
+
+// Data
+import flightData from '../data/flight.json';
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld,
+    Container,
+    FlightTable,
   },
+  data() {
+    return {
+      flights: flightData
+    };
+  }
 };
 </script>

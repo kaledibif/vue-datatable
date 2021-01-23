@@ -1,0 +1,82 @@
+[
+  {
+    "time": "06:00 AM",
+    "date": "25-01-2021",
+    "destination": "Amsterdam Airport Schiphol",
+    "country": "Netherlands",
+    "flight": "KL 1614",
+    "airline": "KLM"
+  },
+  {
+    "time": "06:00 AM",
+    "date": "25-01-2021",
+    "destination": "Frankfurt Airport",
+    "country": "Germany",
+    "flight": "TK 1828",
+    "airline": "Turkish Airlines"
+  },
+  {
+    "time": "07:00 AM",
+    "date": "25-01-2021",
+    "destination": "Amsterdam Airport Schiphol",
+    "country": "Netherlands",
+    "flight": "TK 7768",
+    "airline": "Turkish Airlines"
+  },
+  {
+    "time": "07:00 AM",
+    "date": "25-01-2021",
+    "destination": "Frankfurt Airport",
+    "country": "Germany",
+    "flight": "LH 1305",
+    "airline": "Lufthansa"
+  },
+  {
+    "time": "07:00 AM",
+    "date": "25-01-2021",
+    "destination": "London Stansted Airport",
+    "country": "UK",
+    "flight": "PC 1169",
+    "airline": "Pegasus"
+  },
+  {
+    "time": "08:50 AM",
+    "date": "25-01-2021",
+    "destination": "Amsterdam Airport Schiphol",
+    "country": "Netherlands",
+    "flight": "PC 1251",
+    "airline": "Pegasus"
+  },
+  {
+    "time": "07:00 AM",
+    "date": "25-01-2021",
+    "destination": "London Stansted Airport",
+    "country": "UK",
+    "flight": "TK 7830",
+    "airline": "Turkish Airlines"
+  },
+  {
+    "time": "10:45 AM",
+    "date": "25-01-2021",
+    "destination": "London Stansted Airport",
+    "country": "UK",
+    "flight": "PC 1811",
+    "airline": "Pegasus"
+  },
+  {
+    "time": "11:00 AM",
+    "date": "25-01-2021",
+    "destination": "Frankfurt Airport",
+    "country": "Germany",
+    "flight": "LH 1309",
+    "airline": "Lufthansa"
+  },
+  {
+    "time": "12:00 AM",
+    "date": "25-01-2021",
+    "destination": "London Heathrow Airport",
+    "country": "UK",
+    "flight": "BA 675",
+    "airline": "British Airways"
+  }
+]

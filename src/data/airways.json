@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Air France",
+    "key": "AF"
+  },
+  {
+    "name": "British Airways",
+    "key": "BA"
+  },
+  {
+    "name": "KLM",
+    "key": "KL"
+  },
+  {
+    "name": "Lutfhansa",
+    "key": "LH"
+  },
+  {
+    "name": "LOT",
+    "key": "LOT"
+  },
+  {
+    "name": "EgyptAir",
+    "key": "MS"
+  },
+  {
+    "name": "Multi",
+    "key": "multi"
+  },
+  {
+    "name": "Pegasus",
+    "key": "PC"
+  },
+  {
+    "name": "Ukraine International",
+    "key": "PC"
+  },
+  {
+    "name": "Qatar Airways",
+    "key": "QR"
+  },
+  {
+    "name": "Royal Jordainan",
+    "key": "QR"
+  },
+  {
+    "name": "Aeroflot",
+    "key": "SU"
+  },
+  {
+    "name": "Turkish Airlines",
+    "key": "TK"
+  }
+]
